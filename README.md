@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, my name is Wade!
 
 ## My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,prisma,postman,supabase,vscode,netlify,github,styledcomponents)](https://skillicons.dev)
