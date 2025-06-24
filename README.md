@@ -1,9 +1,16 @@
 ## Hi there 👋, my name is Wade!
 
+---
+
 ## My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,prisma,postman,supabase,vscode,netlify,github,styledcomponents)](https://skillicons.dev)
 
+---
+
+## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wade-levels-up)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <!--
 **wade-levels-up/wade-levels-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
