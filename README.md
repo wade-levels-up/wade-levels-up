@@ -1,5 +1,9 @@
 ## Hi there 👋, my name is Wade!
 
+🧑🏻‍💻 I'm a budding full stack developer from Melbourne specialising in web development using the PERN stack
+
+🌱 I’m currently learning TypeScript and Tailwind CSS
+
 ---
 
 ## My Tech Stack
