@@ -1,11 +1,11 @@
-## Hi there 👋, my name is Wade!
+## Hey! ☺️, my name is Wade!
 
-🧑🏻‍💻 I'm a budding full stack developer from Melbourne specialising in web development using the PERN stack
+🧑🏻‍💻 I'm a Software Engineer from Melbourne specialising in web development using the PERN stack
 
 ---
 
 ## My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,prisma,postman,supabase,vscode,netlify,github,styledcomponents,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,prisma,postman,supabase,vscode,netlify,github,styledcomponents,nextjs)]
 
 ---
 
