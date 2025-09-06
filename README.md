@@ -5,7 +5,7 @@
 ---
 
 ## My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,prisma,postman,supabase,vscode,netlify,github,styledcomponents,nextjs)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,prisma,postman,supabase,vscode,netlify,github,styledcomponents,nextjs)](https://skillicons.dev)
 
 ---
 
